@@ -131,6 +131,7 @@ def StartProxy():
         Log("Shutting down Proxy Server")
         ProxyServer.shutdown()
         Log("Proxy Server has been Shut down.")
+        RunButton.config(text="Start")
         ServerRunning = False
 
 
