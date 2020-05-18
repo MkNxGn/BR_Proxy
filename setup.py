@@ -17,7 +17,7 @@ options = {
 setup(
     name = "MkNxGn BR Proxy",
     options = options,
-    version = "1.0.0",
+    version = "1.0.1",
     description = 'MkNxGn BR Proxy for Minecraft BedRock Server - Created By Mark.',
     executables = executables
 )
