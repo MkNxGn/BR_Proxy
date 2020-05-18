@@ -17,7 +17,7 @@ Go to <a href="https://github.com/MkNxGn/BR_Proxy/releases">releases</a> and dow
 How To Use
 ------------
 <ol>
-    <li> After installation, Run the program.
+    <li> After installation, Run the program on your PC - Make sure you are on the same LAN as your console.
     <li> Search for the server host and port you'd like to connect to.
     <li> Insert the host and port in [host]:[port] format in Remote Settings > Minecraft Server
     <li> Change your IP Address / Port in Local Settings if necessary
