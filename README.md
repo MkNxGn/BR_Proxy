@@ -12,7 +12,6 @@ Installation
 ------------
 
 Go to <a href="https://github.com/MkNxGn/BR_Proxy/releases">releases</a> and download the EXE or download the package and run the "program.py" file.
-
 #
 How To Use
 ------------
